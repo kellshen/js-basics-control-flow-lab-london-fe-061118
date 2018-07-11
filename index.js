@@ -1,5 +1,4 @@
 // Write your code in this file!
-const someValue = 2004
 
 function scuberGreetingForFeet(someValue) {
   
@@ -18,3 +17,5 @@ function scuberGreetingForFeet(someValue) {
   } 
   
 }
+
+function 
