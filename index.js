@@ -1,5 +1,5 @@
 // Write your code in this file!
-distance = 199
+someNumber = 199
 
 let someNumber
 
