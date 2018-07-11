@@ -4,18 +4,19 @@ const someValue = 2004
 function scuberGreetingForFeet(someValue) {
   
   if(someValue >= 2500) {
-    "No can do.";
+    return "No can do.";
     
   }
   
   else if(someValue > 2000) {
-    "I will gladly take your thirty bucks.";
+    return "I will gladly take your thirty bucks.";
   }
   
-  else(someValue <= 400) {
-    "This one is on me!";
+  else if (someValue <= 400) {
+    return "This one is on me!";
     
   } 
   
+  else
   
 }
