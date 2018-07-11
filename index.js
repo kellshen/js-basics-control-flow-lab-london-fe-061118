@@ -1,4 +1,8 @@
 // Write your code in this file!
-const someNumber = 199
+const someValue = 199
 
-function 
+function scuberGreetingForFeet(someValue) {
+  if{someValue <= 400}
+    
+  }
+}
