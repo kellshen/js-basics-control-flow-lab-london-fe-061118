@@ -2,7 +2,7 @@
 const someValue = 199
 
 function scuberGreetingForFeet(someValue) {
-  if(someValue) > 2500 {
+  if(someValue > 2500) {
     "No can do.";
   else if(someValue <= 400) {
     "This one is on me!";
