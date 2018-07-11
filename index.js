@@ -17,6 +17,4 @@ function scuberGreetingForFeet(someValue) {
     
   } 
   
-  else
-  
 }
