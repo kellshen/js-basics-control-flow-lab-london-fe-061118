@@ -1,7 +1,5 @@
 // Write your code in this file!
 
-const someValue = 2005
-
 function scuberGreetingForFeet(someValue) {
   
   if(someValue >= 2500) {
@@ -21,7 +19,7 @@ function scuberGreetingForFeet(someValue) {
 }
 
 function ternaryCheckCity() {
-  ternaryCheckCity == New York City ? "Ok, sounds good." : "No go" 
+  ;ternaryCheckCity == New York City ? "Ok, sounds good." : "No go"; 
 }
 
 
