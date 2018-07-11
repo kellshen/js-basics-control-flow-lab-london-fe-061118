@@ -1,5 +1,7 @@
 // Write your code in this file!
 
+const someValue = 2005
+
 function scuberGreetingForFeet(someValue) {
   
   if(someValue >= 2500) {
