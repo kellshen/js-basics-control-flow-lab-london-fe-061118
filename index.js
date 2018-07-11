@@ -23,6 +23,10 @@ function ternaryCheckCity(city) {
 }
 
 
-function switchOnCharmFromTip() {
+function switchOnCharmFromTip(tipAmount) {
+  switch (tipAmount) {
+    case (tipAmount > 5%):
+      
+  }
   
 }
