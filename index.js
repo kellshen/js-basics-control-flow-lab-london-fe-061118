@@ -1,5 +1,5 @@
 // Write your code in this file!
-someValue = 2004
+const someValue = 2004
 
 function scuberGreetingForFeet(someValue) {
   if(someValue >= 2500) {
